@@ -6,7 +6,7 @@
  */
 public class main {
     public static void main(String[] args) {
-        System.out.println("cccccxxxxxxzzzz");
+        System.out.println("cccccxeeexxxxxzzzz");
     }
 
 }
